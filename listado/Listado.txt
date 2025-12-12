@@ -1,6 +1,6 @@
-Isaac Calleja Paredes
-Laura Verónica Francisco Pérez
 Jose Medina Segarra
+Álvaro Gil Muñoz
+Laura Verónica Francisco Pérez
 Sergii Meleshko
 Stephani Córdova
 Adrián Segura Moreno
@@ -39,7 +39,7 @@ Akcha Boutaa Abderrahmane
 
 
 
-Álvaro Gil Muñoz
+
 Eduardo Conejeros Paredes
 Wang Ren Jaime
 
